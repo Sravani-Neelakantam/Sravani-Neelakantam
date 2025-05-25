@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Sravani-Neelakantam
 Welcome to my Github!
-- machine learning.
+-  I hold a Master's degree in Data Science from the UK, and I’m currently on a focused **90-day journey to become industry-ready** in data analysis and machine learning.
+
 
 🚀 Over the past weeks, I’ve been actively building hands-on projects, brushing up on core tools like Python, Pandas, SQL, and Scikit-learn — while sharing everything I learn along the way.
 
