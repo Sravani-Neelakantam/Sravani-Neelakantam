@@ -16,9 +16,6 @@ Welcome to my Github!
 - Work on real freelance projects in data cleaning, EDA, and prediction
 - Continue learning and sharing openly
 
-📫 Let’s connect:
-- LinkedIn: [linkedin.com/in/sravani-neelakantam-a9b072239](url)
-
 Thanks for stopping by!
 
 
